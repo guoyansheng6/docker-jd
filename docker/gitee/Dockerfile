@@ -1,6 +1,6 @@
 FROM node:lts-alpine
 ARG JD_BASE_URL=https://github.com/gys619/docker-jd
-ARG JD_BASE_BRANCH=docker-jd
+ARG JD_BASE_BRANCH=main
 ARG JD_BASE_URL2=https://github.com/gys619/jd_docker2
 ARG JD_BASE_BRANCH2=main
 ARG JD_SCRIPTS_URL=https://gitee.com/lxk0301/jd_scripts
